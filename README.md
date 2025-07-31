@@ -25,7 +25,7 @@ Utilizando **PySpark** e **Looker Studio**, analisei padrões temporais e espaci
 
 - **Tecnólogo em Ciência de Dados** – Descomplica (08/2024 – 12/2026)
 - **Analista de Dados** – EBAC (conclusão: 05/2025)
-- **Formação em Análise de Dados** – Tera (conclusão: 02/2025)
+- **Data Analytics** – Tera (conclusão: 02/2025)
 
 ---
 
